@@ -68,7 +68,7 @@ function renderGrid() {
         <article class="card" data-category="${escapeHtml(project.category)}">
           <button type="button" class="card-open" data-id="${escapeHtml(project.id)}">
             <span class="card-media">
-              <img src="${escapeHtml(project.images[0])}" alt="" ${eager} width="800" height="1000">
+              <img src="${escapeHtml(project.images[0])}" alt="" ${eager} width="800" height="800">
               ${badge}
             </span>
             <span class="card-copy">

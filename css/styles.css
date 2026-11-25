@@ -528,8 +528,10 @@ section {
 
 .card-media img {
   width: 100%;
-  aspect-ratio: 3 / 2;
+  height: auto;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
+  object-position: center;
 }
 
 .card-photos {
@@ -691,19 +693,29 @@ body.is-locked .wa-float {
   cursor: pointer;
 }
 
+/* Keep the side columns when there is a single photo, so the image stays centered. */
+.lb-nav[hidden] {
+  display: block;
+  visibility: hidden;
+  pointer-events: none;
+}
+
 .lb-stage {
   display: grid;
-  grid-template-columns: auto 1fr auto;
+  grid-template-columns: 46px minmax(0, 1fr) 46px;
   align-items: center;
+  justify-items: center;
   gap: 0.4rem;
   min-height: 0;
 }
 
 .lb-stage img {
-  width: 100%;
+  width: auto;
+  max-width: 100%;
+  height: auto;
   max-height: min(62svh, 820px);
   object-fit: contain;
-  margin-inline: auto;
+  justify-self: center;
   background: #0c0b0a;
 }
 
@@ -768,10 +780,6 @@ body.is-locked .wa-float {
 
   .services li:nth-child(odd):last-child {
     grid-column: 1 / -1;
-  }
-
-  .card-media img {
-    aspect-ratio: 4 / 5;
   }
 
   .grid {
