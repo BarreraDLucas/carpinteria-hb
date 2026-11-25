@@ -1,0 +1,441 @@
+{
+  "categories": [
+    {
+      "id": "cocinas",
+      "label": "Cocinas"
+    },
+    {
+      "id": "placares",
+      "label": "Placares y vestidores"
+    },
+    {
+      "id": "living",
+      "label": "Living y TV"
+    },
+    {
+      "id": "banos",
+      "label": "Baños"
+    },
+    {
+      "id": "infantil",
+      "label": "Infantil"
+    },
+    {
+      "id": "exterior",
+      "label": "Exterior"
+    },
+    {
+      "id": "comercial",
+      "label": "Comercial"
+    },
+    {
+      "id": "otros",
+      "label": "Otros"
+    }
+  ],
+  "projects": [
+    {
+      "id": "cocina-l",
+      "title": "Cocina en L con mesada de madera",
+      "description": "Frentes blancos y mesada de madera, armada a la medida del ambiente.",
+      "category": "cocinas",
+      "images": [
+        "images/full/cocina-l-1.webp",
+        "images/full/cocina-l-2.webp"
+      ]
+    },
+    {
+      "id": "vestidor",
+      "title": "Vestidor a medida",
+      "description": "Estantes, barra para colgar y cajones en melamina clara.",
+      "category": "placares",
+      "images": [
+        "images/full/vestidor-1.webp",
+        "images/full/vestidor-2.webp",
+        "images/full/vestidor-3.webp",
+        "images/full/vestidor-4.webp"
+      ]
+    },
+    {
+      "id": "casita",
+      "title": "Casita de juegos",
+      "description": "Casita blanca para el jardín, con deck, jardineras y techo de chapa.",
+      "category": "infantil",
+      "images": [
+        "images/full/casita-1.webp"
+      ]
+    },
+    {
+      "id": "mueble-tv",
+      "title": "Mueble de TV",
+      "description": "Estantes y cajonera flotante, con terminación texturada en gris.",
+      "category": "living",
+      "images": [
+        "images/full/mueble-tv-1.webp"
+      ]
+    },
+    {
+      "id": "consola",
+      "title": "Consola flotante",
+      "description": "Frentes blancos, tope de madera y un estante abierto al centro.",
+      "category": "living",
+      "images": [
+        "images/full/consola-1.webp"
+      ]
+    },
+    {
+      "id": "vanitory-flotante",
+      "title": "Vanitory flotante y nicho",
+      "description": "Cajones, pileta de apoyo, estantes en el nicho y banquito de listones.",
+      "category": "banos",
+      "images": [
+        "images/full/vanitory-flotante-1.webp",
+        "images/full/vanitory-flotante-2.webp",
+        "images/full/vanitory-flotante-3.webp",
+        "images/full/vanitory-flotante-4.webp",
+        "images/full/vanitory-flotante-5.webp",
+        "images/full/vanitory-flotante-6.webp",
+        "images/full/vanitory-flotante-7.webp"
+      ]
+    },
+    {
+      "id": "parque",
+      "title": "Parque de juegos",
+      "description": "Torre con casita, tobogán, puente y hamacas para el jardín.",
+      "category": "exterior",
+      "images": [
+        "images/full/parque-1.webp"
+      ]
+    },
+    {
+      "id": "arco",
+      "title": "Arco de madera con puerta",
+      "description": "Marco curvo, vidrios esmerilados y puerta a juego entre ambientes.",
+      "category": "otros",
+      "images": [
+        "images/full/arco-1.webp",
+        "images/full/arco-2.webp"
+      ]
+    },
+    {
+      "id": "escalera",
+      "title": "Escalera revestida en madera",
+      "description": "Peldaños y canto redondeado, con zócalo a medida contra la pared.",
+      "category": "otros",
+      "images": [
+        "images/full/escalera-1.webp"
+      ]
+    },
+    {
+      "id": "cocina-vidrio",
+      "title": "Cocina blanca con alacenas de vidrio",
+      "description": "Columna de horno y alacenas superiores con frente de vidrio.",
+      "category": "cocinas",
+      "images": [
+        "images/full/cocina-vidrio-1.webp",
+        "images/full/cocina-vidrio-2.webp"
+      ]
+    },
+    {
+      "id": "placard-madera",
+      "title": "Placard de madera con baulera",
+      "description": "Cuerpo alto de madera, puertas amplias y terminación lustrosa.",
+      "category": "placares",
+      "images": [
+        "images/full/placard-madera-1.webp",
+        "images/full/placard-madera-2.webp"
+      ]
+    },
+    {
+      "id": "castillo",
+      "title": "Respaldo infantil",
+      "description": "Respaldo con forma de castillo, en madera clara, para la cama.",
+      "category": "infantil",
+      "images": [
+        "images/full/castillo-1.webp"
+      ]
+    },
+    {
+      "id": "estaciones",
+      "title": "Estaciones de trabajo",
+      "description": "Varias estaciones en una sola pieza, con tapas blancas y estructura oscura.",
+      "category": "comercial",
+      "images": [
+        "images/full/estaciones-1.webp",
+        "images/full/estaciones-2.webp",
+        "images/full/estaciones-3.webp",
+        "images/full/estaciones-4.webp"
+      ]
+    },
+    {
+      "id": "cajonera",
+      "title": "Cajonera para vestidor",
+      "description": "Cajonera blanca con tapa de vidrio, para ordenar en poco espacio.",
+      "category": "placares",
+      "images": [
+        "images/full/cajonera-1.webp"
+      ]
+    },
+    {
+      "id": "mostrador",
+      "title": "Mostrador para local",
+      "description": "Mostrador a medida con frente de listones, para un comercio.",
+      "category": "comercial",
+      "images": [
+        "images/full/mostrador-1.webp"
+      ]
+    },
+    {
+      "id": "placard-blanco",
+      "title": "Placard de varias puertas",
+      "description": "Frentes lisos y tiradores metálicos, de piso a techo.",
+      "category": "placares",
+      "images": [
+        "images/full/placard-blanco-1.webp"
+      ]
+    },
+    {
+      "id": "banquina",
+      "title": "Alacenas y banquina de ventana",
+      "description": "Alacenas blancas y una superficie de madera bajo la ventana.",
+      "category": "cocinas",
+      "images": [
+        "images/full/banquina-2.webp",
+        "images/full/banquina-3.webp",
+        "images/full/banquina-1.webp"
+      ]
+    },
+    {
+      "id": "panel",
+      "title": "Frente texturado",
+      "description": "Panelería continua con textura, de piso a techo.",
+      "category": "living",
+      "images": [
+        "images/full/panel-1.webp"
+      ]
+    },
+    {
+      "id": "living-panel",
+      "title": "Living con panel y escritorio",
+      "description": "Panel para la tele, cajonera y escritorio, con listones de madera en vertical.",
+      "category": "living",
+      "images": [
+        "images/full/living-panel-1.webp"
+      ]
+    },
+    {
+      "id": "respaldo",
+      "title": "Respaldo con mesas de luz",
+      "description": "Respaldo en dos tonos y mesas de luz a los costados de la cama.",
+      "category": "otros",
+      "images": [
+        "images/full/respaldo-1.webp"
+      ]
+    },
+    {
+      "id": "oficina",
+      "title": "Escritorio de oficina",
+      "description": "Escritorio y cajoneras a juego, con tapas claras y patas de madera.",
+      "category": "comercial",
+      "images": [
+        "images/full/oficina-1.webp"
+      ]
+    },
+    {
+      "id": "cocina-gris",
+      "title": "Bajo mesada en gris",
+      "description": "Mueble bajo mesada en gris, instalado junto a la cocina.",
+      "category": "cocinas",
+      "images": [
+        "images/full/cocina-gris-1.webp"
+      ]
+    },
+    {
+      "id": "vanitory-madera",
+      "title": "Vanitory con mesada de madera",
+      "description": "Mesada de madera y pileta de apoyo, en etapa de instalación.",
+      "category": "banos",
+      "images": [
+        "images/full/vanitory-madera-1.webp"
+      ]
+    },
+    {
+      "id": "estantes",
+      "title": "Mueble con escritorio",
+      "description": "Estantes, superficie de trabajo y recortes circulares en madera clara.",
+      "category": "otros",
+      "images": [
+        "images/full/estantes-1.webp"
+      ]
+    },
+    {
+      "id": "compacto",
+      "title": "Amoblamiento en espacio compacto",
+      "description": "Guardado blanco adaptado al contorno de un espacio reducido.",
+      "category": "otros",
+      "images": [
+        "images/full/compacto-1.webp",
+        "images/full/compacto-2.webp"
+      ]
+    },
+    {
+      "id": "corredizos",
+      "title": "Placares corredizos gris y blanco",
+      "description": "Puertas de correr, con un módulo para la heladera y otro para colgar.",
+      "category": "placares",
+      "images": [
+        "images/full/corredizos-1.webp",
+        "images/full/corredizos-2.webp",
+        "images/full/corredizos-3.webp",
+        "images/full/corredizos-4.webp"
+      ]
+    },
+    {
+      "id": "cocina-luz",
+      "title": "Cocina blanca con mesada de madera",
+      "description": "Frentes lisos, un rincón en L y mesada de madera, con luz bajo las alacenas.",
+      "category": "cocinas",
+      "images": [
+        "images/full/cocina-luz-1.webp",
+        "images/full/cocina-luz-2.webp",
+        "images/full/cocina-luz-3.webp",
+        "images/full/cocina-luz-4.webp"
+      ]
+    },
+    {
+      "id": "living-flotante",
+      "title": "Living con panel para TV y mueble flotante",
+      "description": "Frente con estantes, cajones y listones, más un mueble flotante con tapa abatible.",
+      "category": "living",
+      "images": [
+        "images/full/living-flotante-1.webp",
+        "images/full/living-flotante-2.webp",
+        "images/full/living-flotante-3.webp"
+      ]
+    },
+    {
+      "id": "cocina-lavarropas",
+      "title": "Cocina con mesada de madera y lavarropas",
+      "description": "Mesada continua que une el bajo mesada y el lugar del lavarropas.",
+      "category": "cocinas",
+      "images": [
+        "images/full/cocina-lavarropas-1.webp",
+        "images/full/cocina-lavarropas-2.webp",
+        "images/full/cocina-lavarropas-3.webp",
+        "images/full/cocina-lavarropas-4.webp"
+      ]
+    },
+    {
+      "id": "botiquin",
+      "title": "Botiquín con espejo para el baño",
+      "description": "Puertas laterales, estantes adentro y el espejo al centro.",
+      "category": "banos",
+      "images": [
+        "images/full/botiquin-1.webp",
+        "images/full/botiquin-2.webp"
+      ]
+    },
+    {
+      "id": "botellero",
+      "title": "Placard con botellero",
+      "description": "Módulo abierto con perchero, botellero abajo y puertas al costado.",
+      "category": "placares",
+      "images": [
+        "images/full/botellero-1.webp"
+      ]
+    },
+    {
+      "id": "castillo-proceso",
+      "title": "Respaldo infantil tipo castillo (antes y después)",
+      "description": "Torres, almenas y ventanitas en madera, del taller a la habitación.",
+      "category": "infantil",
+      "images": [
+        "images/full/castillo-proceso-1.webp",
+        "images/full/castillo-proceso-2.webp"
+      ]
+    },
+    {
+      "id": "patio-redondo",
+      "title": "Juego de patio con mesa redonda",
+      "description": "Mesa redonda y sillas, con estructura blanca y asientos de madera.",
+      "category": "exterior",
+      "images": [
+        "images/full/patio-redondo-1.webp"
+      ]
+    },
+    {
+      "id": "recepcion",
+      "title": "Mostrador curvo de recepción",
+      "description": "Frente liso, tapa amplia y estantes adentro, para un local o una oficina.",
+      "category": "comercial",
+      "images": [
+        "images/full/recepcion-1.webp",
+        "images/full/recepcion-2.webp",
+        "images/full/recepcion-3.webp"
+      ]
+    },
+    {
+      "id": "vehiculo",
+      "title": "Amoblamiento a medida en un vehículo",
+      "description": "Cocina compacta, alacenas y un placard alto, adaptados al contorno.",
+      "category": "otros",
+      "images": [
+        "images/full/vehiculo-1.webp",
+        "images/full/vehiculo-2.webp",
+        "images/full/vehiculo-3.webp"
+      ]
+    },
+    {
+      "id": "despensa",
+      "title": "Cocina con frente de madera y despensa extraíble",
+      "description": "Cajones, bajo mesada y una despensa que sale entera, con frente de madera.",
+      "category": "cocinas",
+      "images": [
+        "images/full/despensa-1.webp",
+        "images/full/despensa-2.webp",
+        "images/full/despensa-3.webp",
+        "images/full/despensa-4.webp",
+        "images/full/despensa-5.webp"
+      ]
+    },
+    {
+      "id": "cocina-u",
+      "title": "Cocina en U gris",
+      "description": "Muebles bajos en U, recién instalados, antes de colocar la mesada.",
+      "category": "cocinas",
+      "images": [
+        "images/full/cocina-u-1.webp",
+        "images/full/cocina-u-2.webp"
+      ]
+    },
+    {
+      "id": "lavadero",
+      "title": "Lavadero con mesada de madera",
+      "description": "Dos puertas, pileta y el hueco del lavarropas, bajo una mesada continua.",
+      "category": "otros",
+      "images": [
+        "images/full/lavadero-1.webp"
+      ]
+    },
+    {
+      "id": "cocina-jaspe",
+      "title": "Cocina blanca con mesada jaspeada",
+      "description": "Alacenas, bajo mesada y una mesada clara con veta, con la pileta integrada.",
+      "category": "cocinas",
+      "images": [
+        "images/full/cocina-jaspe-1.webp",
+        "images/full/cocina-jaspe-2.webp",
+        "images/full/cocina-jaspe-3.webp"
+      ]
+    },
+    {
+      "id": "aparador",
+      "title": "Aparador blanco",
+      "description": "Cuatro puertas y un cuerpo bajo, para guardar y ordenar.",
+      "category": "otros",
+      "images": [
+        "images/full/aparador-1.webp"
+      ]
+    }
+  ]
+}
